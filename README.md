@@ -17,39 +17,6 @@
 
 Sparks is a full stack social media web app that is designed to help users discover as well as create new ideas for all things creative with the help of AI. 
 
-## <a name="technologies">⚙️ Technologies Used </a>
-
-- Frontend: [React](https://reactjs.org/), [Tailwind CSS](https://tailwindcss.com/), [Zod Forms](https://zod.dev/), [Shadcn](https://ui.shadcn.com/), [HeadlessUI](https://headlessui.com/)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-  ![Zod Forms](https://img.shields.io/badge/-Zod%20Forms-FF3E00?style=flat)
-  ![Shadcn](https://img.shields.io/badge/-Shadcn-2D3748?style=flat)
-  ![HeadlessUI](https://img.shields.io/badge/-HeadlessUI-38B2AC?style=flat)
-
-- Backend: [Node.js](https://nodejs.org/), [MySQL](https://www.mysql.com/), [Next.js](https://nextjs.org/)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
-- Image Storage: [S3-AmazonWebServices](https://aws.amazon.com/s3/)
-  ![Amazon S3](https://img.shields.io/badge/-AWS%20S3-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
-- DataBase Management: [RDS-AmazonWebServices](https://aws.amazon.com/rds/), [MySQL Workbench](https://www.mysql.com/products/workbench/)
-  ![Amazon RDS](https://img.shields.io/badge/-Amazon%20RDS-232F3E?style=flat)
-  ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
-
-- Authentication: [Clerk](https://docs.clerk.dev/)
-  ![Clerk](https://img.shields.io/badge/-Clerk-1B1F23?style=flat)
-
-- AI Integration: [OpenAI](https://https://openai.com/), [Dall-E-3](https://openai.com/dall-e-3), [Gpt-3.5-turbo](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates)
-  ![OpenAI](https://img.shields.io/badge/-OpenAI-0082C6?style=flat)
-  ![Dall-E-3](https://img.shields.io/badge/-Dall--E--3-593695?style=flat)
-  ![Gpt-3.5-turbo](https://img.shields.io/badge/-Gpt--3.5--turbo-593695?style=flat)
-
-- WebSockets: [Pusher](https://pusher.com/)
-  ![Pusher](https://img.shields.io/badge/-Pusher-652B81?style=flat)
-
-
 ## <a name="features">🚀 Features</a>
 
 - Fully CRUD , creates, reads, updates, deletes all types of posts such as regular ones, comments and even AI generated ones.
@@ -78,9 +45,6 @@ Sparks is a full stack social media web app that is designed to help users disco
 ## <a name="live"> 📦 Live Deployment </a>
 The webapp is live and hosted by vercel https://sparkify.vercel.app
 
-## <a name="contact" > 📫 Contact </a>
-tomyfletcher99@hotmail.com
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomy-romero-902476145/)
 
 ## <a name="database-schema"> 📊 Data Base Schema </a>
 <img src="public/assets/DataBaseSchema.png" alt="Screenshot of SqlSchema" >
@@ -102,67 +66,9 @@ Many-to-Many relationship: A user can be both the sender and receiver in multipl
 
 User interface and different functionalities of Sparks.
 
-### Login
-<img src="public/assets/sparks-login.png" alt="Screenshot of login">
-
-### Profile Set Up
-<img src="public/assets/sparks-onboard.png" alt="Screenshot of Home" >
-
-### Home
-<img src="public/assets/sparks-home.png" alt="Screenshot of Home" >
-
-### Responsive
-<img src="public/assets/sparks-moblie.png" alt="Screenshot of Home in Mobile">
-<img src="public/assets/sparks-tablet.png" alt="Screenshot of Home in Tablet">
-<img src="public/assets/sparks-prompt.png" alt="Screenshot of prompt in Phone">
-
-### Create Studio
-<img src="public/assets/sparks-studio.png" alt="Screenshot of create studio">
-
-<img src="public/assets/editSpark.png" alt="Screenshot of edit spark">
-<img src="public/assets/editPost.png" alt="Screenshot of edit post">
-<img src="public/assets/editComment.png" alt="Screenshot of edit comment">
-
-### Search
-<img src="public/assets/sparks-search.png" alt="Screenshot of search users">
-<img src="public/assets/sparks-search-post.png" alt="Screenshot of search post">
-
-### Share
-<img src="public/assets/sparks-share.png" alt="Screenshot of Share Post">
-
-### Chats
-<img src="public/assets/sparks-chats.png" alt="Screenshot of User Chats">
-<img src="public/assets/sparks-message.png" alt="Screenshot of Messages">
-
-### Activity
-<img src="public/assets/sparks-noti.png" alt="Screenshot of User Activity">
-
-### Profile
-<img src="public/assets/sparks-profile.png" alt="Screenshot of User Profile">
-
 
 # <a name="ai-post-examples">🤖 Sparks Examples [AI Posts] </a>
 Below are some examples of generated Sparks
-
-<img src="public/assets/examplespark.png" alt="Screenshot of AI Spark">
-
-<img src="public/assets/example2spark.png" alt="Screenshot of AI Spark">
-
-<img src="public/assets/movieSpark.png" alt="Screenshot of AI Spark">
-
-
-<img src="public/assets/novelSpark.png" alt="Screenshot of AI Spark">
-
-
-<img src="public/assets/artworkSpark.png" alt="Screenshot of AI Spark">
-
-
-<img src="public/assets/fashionSpark.png" alt="Screenshot of AI Spark">
-
-
-<img src="public/assets/photoSpark.png" alt="Screenshot of AI Spark">
-
-<img src="public/assets/quoteSpark.png" alt="Screenshot of AI Spark">
 
 
 
@@ -199,21 +105,7 @@ Shout out to https://loading.io/ for all the icons provided
 Shout out to https://unsplash.com/ for all the pictures that were not AI generated or user submitted
 Shout out to adrianhajdin on Github for tutorials on Next.js
 
-## Setup
-### .env.example is provided to follow on what keys the project needs
 
-```bash
-# Clone the repository
-git clone https://github.com/tomyRomero/sparks
-
-# Navigate to the project directory
-cd sparks
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
 
 
 
